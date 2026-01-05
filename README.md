@@ -1,10 +1,10 @@
 
 
-# MS Agent Framework
+# MS Agent Framework Playground
 
 Welcome to the MS Agent Framework, a professional, extensible platform for building, experimenting with, and comparing modern agentic AI frameworks and patterns. This repository is designed for both beginners and advanced users, providing hands-on resources to accelerate your journey in agent-based AI development.
 
-<img src="img/ai-agent-decision-tree.svg" alt="AI Agent Decision Tree" width="40%">
+<img src="img/ai-agent-decision-tree.svg" alt="AI Agent Decision Tree" width="50%">
 
 ---
 
@@ -32,19 +32,19 @@ pip install -r requirements.txt
 ## 📂 Repository Overview
 
 ### Main Notebooks (Root)
-- **agent-framework-aifoundry-file-search.ipynb**: File search agent demo (shows how agents can search and retrieve files)
-- **agent-framework-basicagent.ipynb**: Minimal working agent example (start here for basics)
-- **HITL-Agent-Framework-aifoundry.ipynb**: Human-In-The-Loop (HITL) agent pattern demonstration
-- **RAG-Agent-Framework-aifoundry.ipynb**: Retrieval-Augmented Generation (RAG) agent example
+- **[agent-framework-aifoundry-file-search.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/agent-framework-aifoundry-file-search.ipynb)**: File search agent demo (shows how agents can search and retrieve files)
+- **[agent-framework-basicagent.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/agent-framework-basicagent.ipynb)**: Minimal working agent example (start here for basics)
+- **[HITL-Agent-Framework-aifoundry.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/HITL-Agent-Framework-aifoundry.ipynb)**: Human-In-The-Loop (HITL) agent pattern demonstration
+- **[RAG-Agent-Framework-aifoundry.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/RAG-Agent-Framework-aifoundry.ipynb)**: Retrieval-Augmented Generation (RAG) agent example
 
 ### Advanced Patterns (`AutoGen Vs Microsoft Agent Framework`)
-- **Agent-as-Tool-Pattern.ipynb**: Agents using other agents as tools
-- **Agent-Function-Tools.ipynb**: Function-calling tools for agents
-- **Group-chat-dynamic-speaker.ipynb**: Multi-agent group chat with dynamic speaker selection
-- **multi-agent-magnetic-pattern.ipynb**: Magnetic pattern for agent collaboration
-- **Single-Multi-Agent-Vs-AutoGen-MAF.ipynb**: Compare single agent, multi-agent, and AutoGen MAF
-- **Swarm-Handoff Pattern.ipynb**: Swarm agent handoff pattern
-- **Thread-Management-Streaming-Responses.ipynb**: Thread management and streaming responses in agent systems
+- **[Agent-as-Tool-Pattern.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/Agent-Function-Tools.ipynb)**: Agents using other agents as tools
+- **[Agent-Function-Tools.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/Agent-as-Tool-Pattern.ipynb)**: Function-calling tools for agents
+- **[Group-chat-dynamic-speaker.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/Group-chat-dynamic-speaker.ipynb)**: Multi-agent group chat with dynamic speaker selection
+- **[multi-agent-magnetic-pattern.ipyn](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/multi-agent-magnetic-pattern.ipynb)**: Magnetic pattern for agent collaboration
+- **[Single-Multi-Agent-Vs-AutoGen-MAF.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/Single-Multi-Agent-Vs-AutoGen-MAF.ipynb)**: Compare single agent, multi-agent, and AutoGen MAF
+- **[Swarm-Handoff Pattern.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/Swarm-Handoff%20Pattern.ipynb)**: Swarm agent handoff pattern
+- **[Thread-Management-Streaming-Responses.ipynb](https://github.com/divakarkumarp/MS-Agent-Framework-Playground/blob/main/AutoGenVsMAF/Thread-Management-Streaming-Responses.ipynb)**: Thread management and streaming responses in agent systems
 
 ---
 
